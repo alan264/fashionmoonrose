@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/fashionmoonrose/static/css/main.a2fddefe.css",
-    "main.js": "/fashionmoonrose/static/js/main.7772b26e.js",
-    "static/js/787.b04e4024.chunk.js": "/fashionmoonrose/static/js/787.b04e4024.chunk.js",
-    "static/media/banner.jpg": "/fashionmoonrose/static/media/banner.706ba574207dbdeef59a.jpg",
-    "static/media/SVN-Ginger.otf": "/fashionmoonrose/static/media/SVN-Ginger.1cddce653ec8ad6f1a8d.otf",
-    "static/media/VL-MODULUS-MEDIUM.otf": "/fashionmoonrose/static/media/VL-MODULUS-MEDIUM.99415cc1ca4a29cd0bef.otf",
-    "static/media/logowebclothing.png": "/fashionmoonrose/static/media/logowebclothing.7cf13fa13fa9974eb0a2.png",
-    "static/media/logo.png": "/fashionmoonrose/static/media/logo.32d82dfaa12a09bb7aa9.png",
-    "static/media/slick.svg": "/fashionmoonrose/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/fashionmoonrose/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "index.html": "/fashionmoonrose/index.html",
-    "static/media/slick.ttf": "/fashionmoonrose/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/fashionmoonrose/static/media/slick.295183786cd8a1389865.woff",
-    "main.a2fddefe.css.map": "/fashionmoonrose/static/css/main.a2fddefe.css.map",
-    "main.7772b26e.js.map": "/fashionmoonrose/static/js/main.7772b26e.js.map",
-    "787.b04e4024.chunk.js.map": "/fashionmoonrose/static/js/787.b04e4024.chunk.js.map"
+    "main.css": "/static/css/main.595ccf22.css",
+    "main.js": "/static/js/main.04bdb8a8.js",
+    "static/js/787.b04e4024.chunk.js": "/static/js/787.b04e4024.chunk.js",
+    "static/media/banner.jpg": "/static/media/banner.706ba574207dbdeef59a.jpg",
+    "static/media/SVN-Ginger.otf": "/static/media/SVN-Ginger.1cddce653ec8ad6f1a8d.otf",
+    "static/media/VL-MODULUS-MEDIUM.otf": "/static/media/VL-MODULUS-MEDIUM.99415cc1ca4a29cd0bef.otf",
+    "static/media/logowebclothing.png": "/static/media/logowebclothing.7cf13fa13fa9974eb0a2.png",
+    "static/media/logo.png": "/static/media/logo.32d82dfaa12a09bb7aa9.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.595ccf22.css.map": "/static/css/main.595ccf22.css.map",
+    "main.04bdb8a8.js.map": "/static/js/main.04bdb8a8.js.map",
+    "787.b04e4024.chunk.js.map": "/static/js/787.b04e4024.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2fddefe.css",
-    "static/js/main.7772b26e.js"
+    "static/css/main.595ccf22.css",
+    "static/js/main.04bdb8a8.js"
   ]
 }
