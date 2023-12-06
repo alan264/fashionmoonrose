@@ -1,2 +1,2 @@
-### Link deploy: https://web-fashion-moon-rose.vercel.app
+### Link deploy: https://alan264.github.io/fashionmoonrose (=> click TRANG CHỦ)
 
